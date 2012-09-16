@@ -1,0 +1,3 @@
+## Notes regarding git commands
+
+Not sure if this offends github conventions...
